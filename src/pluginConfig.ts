@@ -1,12 +1,12 @@
 import type { ExternalPluginConfig } from '@windy/interfaces';
 
 const config: ExternalPluginConfig = {
-    name: 'windy-plugin-my-plugin',
+    name: 'windy-plugin-sigmet-plugin',
     version: '0.1.0',
-    icon: '🔌',
-    title: 'This is my first plugin',
-    description: 'This is my first plugin.',
-    author: 'John Doe (optional company name)',
+    icon: '🌩️',
+    title: 'SIGMET Plugin',
+    description: 'Sigmet plugin to display sigmets and FIR Brazzaville',
+    author: 'Manne Micael KITSOUKOU',
     repository: 'https://github.com/windycom/windy-plugin-template',
     desktopUI: 'rhpane',
     mobileUI: 'fullscreen',
