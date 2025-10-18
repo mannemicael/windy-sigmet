@@ -3,11 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "name": "Mali",
-        "ISO3166-1-Alpha-3": "MLI",
-        "ISO3166-1-Alpha-2": "ML"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           [
